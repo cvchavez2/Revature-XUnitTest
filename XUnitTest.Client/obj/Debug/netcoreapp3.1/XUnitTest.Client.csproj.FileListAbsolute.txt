@@ -1,0 +1,12 @@
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/bin/Debug/netcoreapp3.1/XUnitTest.Client.deps.json
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/bin/Debug/netcoreapp3.1/XUnitTest.Client.runtimeconfig.json
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/bin/Debug/netcoreapp3.1/XUnitTest.Client.runtimeconfig.dev.json
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/bin/Debug/netcoreapp3.1/XUnitTest.Client.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/bin/Debug/netcoreapp3.1/XUnitTest.Client.pdb
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.csprojAssemblyReference.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.AssemblyInfoInputs.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.AssemblyInfo.cs
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.csproj.CoreCompileInputs.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.pdb
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week1/XUnitTest/XUnitTest.Client/obj/Debug/netcoreapp3.1/XUnitTest.Client.genruntimeconfig.cache
